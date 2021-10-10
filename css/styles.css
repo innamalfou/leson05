@@ -1,0 +1,57 @@
+.header, .main{
+    width: 500px;
+    margin: 30px;
+}    
+
+
+.block {
+    width: 100%;
+    height: 50px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.gray {
+    background-color: gray;
+}
+
+.black {
+    background-color: black;
+}
+
+.main-top {
+    width: 33.3333%;
+    height: 50px;
+    float: left;
+}
+
+.main-bottom {
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+
+.footer {
+    width: 100%;
+    margin: 30px;
+}
+.footer-block {
+    width: 150px;
+    float: left;
+    height: 150px;
+    border: 10px solid rgb(150, 255,30);
+    padding: 10px;
+}
+
+
